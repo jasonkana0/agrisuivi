@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "titre": "Arroser tôt le matin",
+    "categorie": "Maïs",
+    "saison": "Saison sèche",
+    "texte": "Arrosez tôt le matin ou en fin de journée pour limiter l'évaporation et économiser l'eau."
+  },
+  {
+    "id": "2",
+    "titre": "Surveiller le mildiou",
+    "categorie": "Tomate",
+    "saison": "Saison des pluies",
+    "texte": "Inspectez régulièrement les feuilles : des taches brunes peuvent indiquer un début de mildiou."
+  },
+  {
+    "id": "3",
+    "titre": "Rotation des cultures",
+    "categorie": "Général",
+    "saison": "Toute saison",
+    "texte": "Pratiquez la rotation des cultures d'une saison à l'autre pour préserver la fertilité du sol."
+  },
+  {
+    "id": "4",
+    "titre": "Paillage du sol",
+    "categorie": "Manioc",
+    "saison": "Saison sèche",
+    "texte": "Couvrez le sol de paille ou de résidus végétaux pour conserver l'humidité autour des plants."
+  },
+  {
+    "id": "5",
+    "titre": "Semis du haricot",
+    "categorie": "Haricot",
+    "saison": "Début de saison des pluies",
+    "texte": "Semez juste après les premières pluies pour profiter d'une bonne humidité du sol."
+  },
+  {
+    "id": "6",
+    "titre": "Lutte naturelle contre les insectes",
+    "categorie": "Général",
+    "saison": "Toute saison",
+    "texte": "Privilégiez les méthodes naturelles (associations de cultures, extraits de plantes) avant les traitements chimiques."
+  }
+]
