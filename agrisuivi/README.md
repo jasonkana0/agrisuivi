@@ -114,4 +114,4 @@ cultures, détail d'une culture, formulaire, conseils, réglages)*
 
 ## Auteur
 
-Apprenant — Formation DClic (OIF), parcours Développement Mobile, niveau approfondi.
+KANA TSAGUE AROL JASON ETUDIANT GENIE LOGICIEL A L'ECOLE NATIONALA SUPERIEURE POLYTECHNIQUE DE DOUALA — Formation DClic (OIF), parcours Développement Mobile, niveau approfondi.
