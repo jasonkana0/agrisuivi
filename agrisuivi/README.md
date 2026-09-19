@@ -94,10 +94,6 @@ Détail des tests :
 - `test/widget_test.dart` — validation du formulaire de culture, affichage de l'écran Conseils.
 - `integration_test/app_test.dart` — ajouter une culture → ajouter une activité → vérifier le carnet → vérifier le tableau de bord.
 
-## Captures d'écran
-
-*(à insérer par l'auteur après exécution locale : accueil, liste des
-cultures, détail d'une culture, formulaire, conseils, réglages)*
 
 ## Difficultés rencontrées
 
